@@ -28,7 +28,8 @@ Like I've said I'm partway through a university course in mathematics. More rece
 Yes, probably, maybe.
 Here's one of those random movement sims I did that kinda looks like a duck... I think. For your troubles.
 
-![Random Duck](/Random Duck.png)
+![Random Duck](Random%20Duck.png)
+
 <!--
 **KAWMMIII/KAWMMIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ## Hi 🙃
 
 ### Who am I? 🥸
-I'm a guy who's currently working to learn more about data science who's also a student of Mathematics at Cambridge. 🤓
+I'm a guy who's currently working to learn more about data science, who's also a student of Mathematics at Cambridge. 🤓
 
 ### What am I doing?🤔
 At the moment I'm in a data science course, learning how to both visualise and analyse data using python. Specifically, libraries including Pandas and Seaborn, and eventually, go more into depth on AI and machine learning. Also, I'm planning to continue my Mathematics course at the University of Cambridge in September.

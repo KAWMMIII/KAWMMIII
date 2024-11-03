@@ -4,7 +4,7 @@
 I'm a guy who's currently working to learn more about data science, who's also a student of Mathematics at Cambridge. 🤓
 
 ### What am I doing?🤔
-At the moment I'm in a data science course, learning how to both visualise and analyse data using python. Specifically, libraries including Pandas and Seaborn, and eventually, go more into depth on AI and machine learning. Also, I'm planning to continue my Mathematics course at the University of Cambridge in September.
+At the moment I've just completed a data science course, in which I learnt how to both visualise and analyse data using python. Specifically, using libraries including Pandas and Seaborn, and eventually, got more into depth on AI and machine learning. Also, I'm continuing my Mathematics course at the University of Cambridge.
 
 ### What have I done? 😭
 Like I've said I'm partway through a university course in mathematics. More recently I've been working on random stuff like:
